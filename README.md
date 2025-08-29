@@ -6,9 +6,7 @@ A full-stack personal finance management application that enables users to track
 
 ## Screenshots
 
-![App Screenshot](<img width="1761" height="904" alt="Screenshot 2025-08-25 193256" src="https://github.com/user-attachments/assets/d9f91d5f-f680-495a-ad98-f31af476c698" />)
-
-
+<img width="1761" height="904" alt="Screenshot 2025-08-25 193256" src="https://github.com/user-attachments/assets/94b83f5f-5b1a-4e18-a575-66ac43f05e48" />
 
 
 
@@ -57,6 +55,7 @@ Maven (dependency management & build tool)
 - **Database**
 
 MongoDB ## Setup Instructions
+## Installation
 
 ### Prerequisites
 - Java 17 or higher
